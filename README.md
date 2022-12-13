@@ -28,6 +28,7 @@ Insert these info in the default.json in the config folder.
   "dbURI":
   "jwtsecret":
   "StripeAPIKey":
+}
 ```
 
 <br>
